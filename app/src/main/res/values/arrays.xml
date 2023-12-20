@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="body_types">
+        <item>Оберіть значення</item>
+        <item>Sedan</item>
+        <item>Coupe</item>
+        <item>Hatchback</item>
+    </string-array>
+
+    <string-array name="engine_types">
+        <item>Оберіть значення</item>
+        <item>V6</item>
+        <item>Inline-4</item>
+
+    </string-array>
+
+    <string-array name="transmission_types">
+        <item>Оберіть значення</item>
+        <item>Automatic</item>
+        <item>Manual</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LR7</string>
+    <string name="car_information">Car Information</string>
+    <string name="close">Close</string>
+    <string name="body_prompt">Select Body Type</string>
+    <string name="engine_prompt">Select Engine Type</string>
+    <string name="transmission_prompt">Select Transmission Type</string>
+    <string name="searchButton">Display</string>
+    <string name="search_database">Search Database</string>
+    <string name="display_database_content">"Display Database "</string>
+</resources>
